@@ -1,0 +1,12 @@
+[
+  {
+    "title": "BLUE",
+    "artist": "Artist A",
+    "url": "https://raw.githubusercontent.com/username/MyMusicRepo/main/songs/song1.mp3"
+  },
+  {
+    "title": "Song 2",
+    "artist": "Artist B",
+    "url": "https://raw.githubusercontent.com/username/MyMusicRepo/main/songs/song2.mp3"
+  }
+]
